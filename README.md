@@ -1,2 +1,2 @@
 # DiscoGPT
-Discor bot for ChatGPT/openAI
+Discord bot for ChatGPT/openAI
